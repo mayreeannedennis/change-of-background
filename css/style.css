@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 100%;
+
+}
+#mybtn { width: 100px;
+    margin-top: 500px;
+    margin-left: 600px;
+    color: red;
+}
+#result{
+    border: solid 5px;
+    width: 80px;
+    margin-left: 600px;
+    top: 100px;
+}
